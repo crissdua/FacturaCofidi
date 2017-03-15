@@ -1,0 +1,5 @@
+<EI>
+  <INVOICES>
+    <INVOICE FolioInterno="" TipoDeComprobante="" status="02" folio_fiscal="" serie_fiscal="" error_message="Empresa [00000REM01] TipoDeComprobante [] FolioInterno []  Error en Validacion esquema: [Root element is missing.]" sello="" anoAprobacion="" noAprobacion="" noCertificado="" cadenaOriginal="" FechaHoraExpedicion="2017-01-26 12:36:11.137" />
+  </INVOICES>
+</EI>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<EI>
+  <INVOICES>
+    <INVOICE>
+      <HEADER>
+        <E01 FolioInterno="16" Fecha="26/01/2017" SubTotal="486983.21" Descuento="0" Total="545421.2" EstadoDocumento="" TipoComprobante="18" />
+        <E02 Nit="5948694-3" NoCliente="C02" Nombre="PRUEBA" />
+        <E03 Localidad="9 calle 3 av Puerto Barrios Izabal" Pais="GUATEMALA" />
+        <E04 Impuesto="58437.99" />
+        <EA1 CustomField15="ciento cuarenta y cinco mil cuatrocientos veintiuno 00/100" Moneda="GTQ" TipoCambio="1" />
+        <C03 Dato3="" />
+        <C04 Dato4="" />
+        <C05 Dato4="" />
+        <C06 Dato5="" />
+        <DETAILS>
+          <D01 Cantidad="1" Descripcion="PIN PARA BOCINA" Importe="486983.21" NoIdentificacion="ETIQUETA:1016" Unidad="UND" ValorUnitario="488181.32">
+            <DA6 Importe="58437.99" Impuesto="IVA" Tasa="12" />
+            <DA8 Porcentaje="98.32" Descripcion="Descuento" Importe="478801.892072" />
+          </D01>
+        </DETAILS>
+      </HEADER>
+    </INVOICE>
+  </INVOICES>
+</EI>

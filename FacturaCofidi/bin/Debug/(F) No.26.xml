@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<EI>
+  <INVOICES>
+    <INVOICE>
+      <HEADER>
+        <E01 FolioInterno="18" Fecha="26/01/2017 12:33:17 p. m." SubTotal="4464.29" Descuento="0" Total="5000" EstadoDocumento="" TipoComprobante="18" />
+        <E02 Nit="" NoCliente="C-1981978" Nombre="BREMEN" />
+        <E03 Localidad="Km 5.5 Carretera al Atlantico Zona 17" Pais="GUATEMALA" />
+        <E04 Impuesto="535.71" />
+        <EA1 CustomField15="Cinco mil Quetzales 00/100" Moneda="GTQ" TipoCambio="1" />
+        <C03 Dato3="" />
+        <C04 Dato4="" />
+        <C05 Dato4="" />
+        <C06 Dato5="" />
+        <DETAILS>
+          <D01 Cantidad="1" Descripcion="FUSIBLE DE ESPIGA 10" Importe="4464.29" NoIdentificacion="ETIQUETA:1013" Unidad="UND" ValorUnitario="4464.31">
+            <DA6 Importe="535.71" Impuesto="IVA" Tasa="12" />
+            <DA8 Porcentaje="-455.56" Descripcion="Descuento" Importe="-20337.519524" />
+          </D01>
+        </DETAILS>
+      </HEADER>
+    </INVOICE>
+  </INVOICES>
+</EI>

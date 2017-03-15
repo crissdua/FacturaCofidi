@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<EI>
+  <INVOICES>
+    <INVOICE>
+      <HEADER>
+        <E01 FolioInterno="7" Fecha="23/01/2017" SubTotal="1983.93" Descuento="0" Total="2222" EstadoDocumento="EstadoDocumento" TipoComprobante="18">
+          <E02 Nit="Nit" NoCliente="C-1494160-0" Nombre="FIBRASOL">
+            <E03 Localidad="1a. Ave. 1-48, Zona 1, Aldea Lo de Dieguez, Fraijanes" Pais="GUATEMALA">
+              <E04 Impuesto="238.07">
+                <EA1 CustomField15="TOTAL EN LETRAS" Moneda="QTZ" TipoCambio="1">
+                  <C03 Dato3="">
+                    <C04 Dato4="">
+                      <C05 Dato4="">
+                        <C06 Dato5="" />
+                      </C05>
+                    </C04>
+                  </C03>
+                </EA1>
+              </E04>
+            </E03>
+          </E02>
+        </E01>
+      </HEADER>
+    </INVOICE>
+  </INVOICES>
+</EI>

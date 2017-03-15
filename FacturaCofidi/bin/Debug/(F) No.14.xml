@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<EI>
+  <INVOICES>
+    <INVOICE>
+      <HEADER>
+        <E01 FolioInterno="8" Fecha="23/01/2017" SubTotal="210436.61" Descuento="0" Total="235689" EstadoDocumento="EstadoDocumento" TipoComprobante="18" />
+        <E02 Nit="Nit" NoCliente="C-1118951" Nombre="CELCO" />
+        <E03 Localidad="1a. Avenida &quot;A&quot; 2-65 Zona 6 Villa Nueva" Pais="GUATEMALA" />
+        <E04 Impuesto="25252.39" />
+        <EA1 CustomField15="TOTAL EN LETRAS" Moneda="QTZ" TipoCambio="1" />
+        <C03 Dato3="" />
+        <C04 Dato4="" />
+        <C05 Dato4="" />
+        <C06 Dato5="" />
+      </HEADER>
+    </INVOICE>
+  </INVOICES>
+</EI>

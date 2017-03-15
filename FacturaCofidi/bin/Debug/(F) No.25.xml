@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<EI>
+  <INVOICES>
+    <INVOICE>
+      <HEADER>
+        <E01 FolioInterno="17" Fecha="12:30:20 p. m." SubTotal="290300.23" Descuento="0" Total="325136.26" EstadoDocumento="" TipoComprobante="18" />
+        <E02 Nit="5948694-3" NoCliente="C02" Nombre="PRUEBA" />
+        <E03 Localidad="9 calle 3 av Puerto Barrios Izabal" Pais="GUATEMALA" />
+        <E04 Impuesto="34836.03" />
+        <EA1 CustomField15="TRES CIENTOS VEINTICINCO MIL CIENTO TREINTA Y SEIS 26/100" Moneda="GTQ" TipoCambio="1" />
+        <C03 Dato3="" />
+        <C04 Dato4="" />
+        <C05 Dato4="" />
+        <C06 Dato5="" />
+        <DETAILS>
+          <D01 Cantidad="1" Descripcion="LENS (TALCO / PIEVIAS)" Importe="290300.23" NoIdentificacion="ETIQUETA:1004" Unidad="UND" ValorUnitario="290300.23">
+            <DA6 Importe="34836.03" Impuesto="IVA" Tasa="12" />
+            <DA8 Porcentaje="0" Descripcion="Descuento" Importe="0" />
+          </D01>
+        </DETAILS>
+      </HEADER>
+    </INVOICE>
+  </INVOICES>
+</EI>

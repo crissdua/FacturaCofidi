@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EI>
+  <INVOICES>
+    <INVOICE>
+      <HEADER>
+        <E01 FolioInterno="21" Fecha="2017-01-26 12:46:48" SubTotal="1071.43" Descuento="0" Total="1200" EstadoDocumento="" TipoDeComprobante ="18" />
+        <E02 Nit="5948694-3" NoCliente="C02" Nombre="PRUEBA" />
+        <E03 Localidad="9 calle 3 av Puerto Barrios Izabal" Pais="GUATEMALA" />
+        <E04 Impuesto="128.57" />
+        <EA1 CustomField15="UN MIL SETENTA  UNO QUEZTALES 43/100" Moneda="GTQ" TipoCambio="1" />
+        <C03 Dato3="13"/>
+        <C04 Dato4="Prueba"/>
+        <C05 Dato5=""/>
+        <C06 Dato6=""/>
+       </HEADER>
+        <DETAILS>
+          <D01 Cantidad="6" Descripcion="FUSIBLE DE ESPIGA 15" Importe="1071.43" NoIdentificacion="ETIQUETA:1011" Unidad="UND" ValorUnitario="178.57">
+            <DA6 Importe="128.57" Impuesto="IVA" Tasa="12" />
+            <DA8 Porcentaje="0" Descripcion="Descuento" Importe="0" />
+          </D01>
+        </DETAILS>
+    </INVOICE>
+  </INVOICES>
+</EI>

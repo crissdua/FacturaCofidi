@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<EI>
+  <INVOICES>
+    <INVOICE>
+      <DETAILS>
+        <D01 Cantidad="2" Descripcion="WIRE ACCEL" Importe="3846.43" NoIdentificacion="ETIQUETA:100" Unidad="UND" ValorUnitario="1923.21">
+          <DA6 Importe="461.57" Impuesto="IVA" Tasa="12" />
+          <DA8 Porcentaje="0" Descripcion="Descuento" Importe="0" />
+        </D01>
+      </DETAILS>
+    </INVOICE>
+  </INVOICES>
+</EI>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0">
+<EI>
+  <INVOICES>
+    <INVOICE>
+      <HEADER>
+        <E01 TipoComprobante="18" EstadoDocumento="" Total="598835" Descuento="0" SubTotal="534674.11" Fecha="23/01/2017" FolioInterno="12"  />
+        <E02 Nit="Nit" NoCliente="C-2254840" Nombre="HOTEL SAN JUAN" />
+        <E03 Localidad="9 calle 3 av Puerto Barrios Izabal" Pais="GUATEMALA" />
+        <E04 Impuesto="64160.89" />
+        <EA1 CustomField15="TOTAL EN LETRAS" Moneda="QTZ" TipoCambio="1" />
+        <C03 Dato3="" />
+        <C04 Dato4="" />
+        <C05 Dato4="" />
+        <C06 Dato5="" />
+        <DETAILS>
+          <D01 Cantidad="1" Descripcion="OIL, SEAL" Importe="534674.11" NoIdentificacion="ETIQUETA:1019" Unidad="Und" ValorUnitario="534674.11">
+            <DA6 Importe="64160.89" Impuesto="IVA" Tasa="12" />
+            <DA8 Porcentaje="0" Descripcion="Descuento" Importe="0" />
+          </D01>
+        </DETAILS>
+      </HEADER>
+    </INVOICE>
+  </INVOICES>
+</EI>

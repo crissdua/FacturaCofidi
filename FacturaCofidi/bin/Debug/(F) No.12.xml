@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<EI>
+  <INVOICES>
+    <INVOICE>
+      <HEADER>
+        <E01 FolioInterno="6" Fecha="23/01/2017" />
+      </HEADER>
+    </INVOICE>
+  </INVOICES>
+</EI>
